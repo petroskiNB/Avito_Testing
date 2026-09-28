@@ -1,0 +1,10 @@
+dataset/
+work/packages
+**/*.log
+**/__pycache__/
+**/metrics.json
+**/ranker_metrics.json
+**/validation_cache.joblid
+**/ranker.cbm
+**/submission.parquet
+**/task_zoom.png
